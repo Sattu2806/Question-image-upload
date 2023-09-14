@@ -1,0 +1,40 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+model Question {
+  id           Int      @id @default(autoincrement())
+  question     String
+  class        Int
+  questionImage String
+  chapter      Int
+  chapterName  String
+  subject      String
+  options      String[]
+  answer       String
+  explanation  String
+  createdAt    DateTime @default(now())
+  startDate    DateTime
+  endDate      DateTime
+  active       Boolean @default(false)
+  // quizId       Int
+  // quiz         Quiz     @relation(fields: [quizId], references: [id])
+
+  images      Image[]   // Define the images relationship
+}
+
+model Image {
+  id   Int     @id @default(autoincrement())
+  url  String
+  questionId Int
+  question   Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
+}
+
+ 

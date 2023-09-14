@@ -1,0 +1,467 @@
+[
+    {
+      "subject": "Math",
+      "chapter":1,
+      "class":6,
+      "questionImage":"",
+      "chapterName":"Knowing our Numbers",
+      "question": "What is the greatest 4-digit number that can be formed using the digits 8, 6, 5, and 4?",
+      "options": [
+        {
+          "option": "8654"
+        },
+        {
+          "option": "8564"
+        },
+        {
+          "option": "8645"
+        },
+        {
+          "option": "5468"
+        }
+      ],
+      "answer": "8654",
+      "explanation": "To find the greatest 4-digit number that can be formed using the given digits 8, 6, 5, and 4, we need to arrange the digits in descending order. The greatest digit among them is 8, followed by 6, 5, and 4. Arranging the digits in descending order: 8, 6, 5, 4. So, the greatest 4-digit number that can be formed is 8654",
+      "images": [
+        {
+          "url": "image1.jpg"
+        }
+      ],
+      "startDate": "2023-08-20T00:00:00Z",
+      "endDate": "2023-08-25T00:00:00Z"
+    },
+    {
+      "subject": "Math",
+      "chapter":1,
+      "class":6,
+      "questionImage":"",
+      "chapterName":"Knowing our Numbers",
+      "question": "What is the smallest 4-digit number that can be formed using the digits 8, 6, 5, and 4?",
+      "options": [
+        {
+          "option": "4568"
+        },
+        {
+          "option": "4658"
+        },
+        {
+          "option": "4856"
+        },
+        {
+          "option": "5468"
+        }
+      ],
+      "answer": "4568",
+      "explanation": "To find the smallest 4-digit number that can be formed using the given digits 8, 6, 5, and 4, we need to arrange the digits in ascending order. The smallest digit among them is 4, followed by 5, 6, and 8. Arranging the digits in ascending order: 4, 5, 6, 8. So, the smallest 4-digit number that can be formed is 4568.",
+      "images": [
+        {
+          "url": "image2.jpg"
+        }
+      ],
+      "startDate": "2023-08-20T00:00:00Z",
+      "endDate": "2023-08-25T00:00:00Z"
+    },
+    {
+      "subject": "Math",
+      "chapter":1,
+      "class":6,
+      "questionImage":"",
+      "chapterName":"Knowing our Numbers",
+      "question": "Which one is greater among the numbers 4020, 4000, 8500, and 506000?",
+      "options": [
+        {
+          "option": "4020"
+        },
+        {
+          "option": "4000"
+        },
+        {
+          "option": "8500"
+        },
+        {
+          "option": "506000"
+        }
+      ],
+      "answer": "506000",
+      "explanation": "To determine the greatest number among 4020, 4000, 8500, and 506000, we simply compare their face values. Among these numbers, 506000 is the greatest as it has the largest value. Therefore, the number 506000 is greater than the other provided numbers.",
+      "images": [
+        {
+          "url": "image3.jpg"
+        }
+      ],
+      "startDate": "2023-08-20T00:00:00Z",
+      "endDate": "2023-08-25T00:00:00Z"
+    },
+    {
+      "subject": "Math",
+      "chapter":1,
+      "class":6,
+      "questionImage":"",
+      "chapterName":"Knowing our Numbers",
+      "question": "What is the smallest two-digit number?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "01"
+        },
+        {
+          "option": "99"
+        },
+        {
+          "option": "22"
+        }
+      ],
+      "answer": "10",
+      "explanation": "To find the smallest two-digit number, we need to consider the two-digit numbers provided in the options. Among these numbers, 10 is the smallest two-digit number. Therefore, the smallest two-digit number is 10.",
+      "images": [
+        {
+          "url": "image4.jpg"
+        }
+      ],
+      "startDate": "2023-08-20T00:00:00Z",
+      "endDate": "2023-08-25T00:00:00Z"
+    },
+    {
+      "subject": "Math",
+      "chapter":1,
+      "class":6,
+      "questionImage":"",
+      "chapterName":"Knowing our Numbers",
+      "question": "What is equivalent of 24 million in Indian Number System?",
+      "options": [
+        {
+          "option": "24,00,000"
+        },
+        {
+          "option": "2,40,00,000"
+        },
+        {
+          "option": "24,00,00,000"
+        },
+        {
+          "option": "2,40,00,00,000"
+        }
+      ],
+      "answer": "2,40,00,000",
+      "explanation": "To convert 24 million into the Indian number system, we need to place commas at appropriate positions. In the Indian number system, a million is represented as 10 lakh. Therefore, 24 million is equivalent to 2 crore 40 lakh, which is written as 2,40,00,000.",
+      "images": [
+        {
+          "url": "image5.jpg"
+        }
+      ],
+      "startDate": "2023-08-20T00:00:00Z",
+      "endDate": "2023-08-25T00:00:00Z"
+    },
+    {
+      "subject": "Math",
+      "chapter":1,
+      "class":6,
+      "questionImage":"",
+      "chapterName":"Knowing our Numbers",
+      "question": "What is the product of the place values of the two threes in the number 53432?",
+      "options": [
+        {
+          "option": "300"
+        },
+        {
+          "option": "3000"
+        },
+        {
+          "option": "900"
+        },
+        {
+          "option": "9000"
+        }
+      ],
+      "answer": "9000",
+      "explanation": "In the number 53432, there are two threes. The first three is in the thousands place, and the second three is in the tens place.\n\nPlace value of the first three (thousands place) = 3 * 1000 = 3000\nPlace value of the second three (tens place) = 3 * 10 = 30\n\nProduct of the place values = 3000 * 30 = 90000 = 9000.",
+      "images": [
+        {
+          "url": "image6.jpg"
+        }
+      ],
+      "startDate": "2023-08-20T00:00:00Z",
+      "endDate": "2023-08-25T00:00:00Z"
+    },
+    {
+      "subject": "Math",
+      "chapter":1,
+      "class":6,
+      "questionImage":"",
+      "chapterName":"Knowing our Numbers",
+      "question": "How do you write 34 in Roman numerals?",
+      "options": [
+        {
+          "option": "XXXIV"
+        },
+        {
+          "option": "XLIV"
+        },
+        {
+          "option": "XXIV"
+        },
+        {
+          "option": "XXXIX"
+        }
+      ],
+      "answer": "XXXIV",
+      "explanation": "The Roman numeral representation of 34 is XXXIV.\n\nIn Roman numerals:\nX (10) + X (10) + X (10) + IV (4) = 30 + 4 = 34.",
+      "images": [
+        {
+          "url": "image7.jpg"
+        }
+      ],
+      "startDate": "2023-08-20T00:00:00Z",
+      "endDate": "2023-08-25T00:00:00Z"
+    },
+    {
+      "subject": "Math",
+      "chapter":1,
+      "class":6,
+      "questionImage":"",
+      "chapterName":"Knowing our Numbers",
+      "question": "What is the difference between the largest 3-digit number and the smallest 3-digit number?",
+      "options": [
+        {
+          "option": "899"
+        },
+        {
+          "option": "990"
+        },
+        {
+          "option": "999"
+        },
+        {
+          "option": "1000"
+        }
+      ],
+      "answer": "899",
+      "explanation": "The largest 3-digit number is 999, and the smallest 3-digit number is 100. The difference between them can be calculated as:\n\n999 - 100 = 899.\n\nTherefore, the difference between the largest 3-digit number and the smallest 3-digit number is 899.",
+      "images": [
+        {
+          "url": "image9.jpg"
+        }
+      ],
+      "startDate": "2023-08-20T00:00:00Z",
+      "endDate": "2023-08-25T00:00:00Z"
+    },
+    {
+      "subject": "Math",
+      "chapter":1,
+      "class":6,
+      "questionImage":"",
+      "chapterName":"Knowing our Numbers",
+      "question": "What is the difference between the largest 4-digit number and the largest 3-digit number?",
+      "options": [
+        {
+          "option": "9000"
+        },
+        {
+          "option": "9999"
+        },
+        {
+          "option": "9900"
+        },
+        {
+          "option": "10000"
+        }
+      ],
+      "answer": "9000",
+      "explanation": "The largest 4-digit number is 9999, and the largest 3-digit number is 999. The difference between them can be calculated as:\n\n9999 - 999 = 9000.\n\nTherefore, the difference between the largest 4-digit number and the largest 3-digit number is 9000.",
+      "images": [
+        {
+          "url": "image8.jpg"
+        }
+      ],
+      "startDate": "2023-08-20T00:00:00Z",
+      "endDate": "2023-08-25T00:00:00Z"
+    },
+    {
+      "subject": "Math",
+      "chapter":1,
+      "class":6,
+      "questionImage":"",
+      "chapterName":"Knowing our Numbers",
+      "question": "Round off 5436 to the nearest tens.",
+      "options": [
+        {
+          "option": "5430"
+        },
+        {
+          "option": "5440"
+        },
+        {
+          "option": "5400"
+        },
+        {
+          "option": "5450"
+        }
+      ],
+      "answer": "5440",
+      "explanation": "To round off 5436 to the nearest tens, we look at the digit in the units place, which is 6. Since 6 is greater than or equal to 5, we need to round up the tens digit by 1. The tens digit is 3, so rounding up gives us 4. Therefore, rounding off 5436 to the nearest tens results in 5440.",
+      "images": [
+        {
+          "url": "image10.jpg"
+        }
+      ],
+      "startDate": "2023-08-20T00:00:00Z",
+      "endDate": "2023-08-25T00:00:00Z"
+    },
+    {
+      "subject": "Math",
+      "chapter":1,
+      "class":6,
+      "questionImage":"",
+      "chapterName":"Knowing our Numbers",
+      "question": "Choose which expanded form of 9578 is correct?",
+      "options": [
+        {
+          "option": "9000 + 500 + 70 + 8"
+        },
+        {
+          "option": "900 + 50 + 7 + 8"
+        },
+        {
+          "option": "9000 + 500 + 7 + 8"
+        },
+        {
+          "option": "900 + 500 + 70 + 8"
+        }
+      ],
+      "answer": "9000 + 500 + 70 + 8",
+      "explanation": "The expanded form of 9578 is:\n\n9000 (9000) + 500 (500) + 70 (70) + 8 (8) = 9578.",
+      "images": [
+        {
+          "url": "image11.jpg"
+        }
+      ],
+      "startDate": "2023-08-20T00:00:00Z",
+      "endDate": "2023-08-25T00:00:00Z"
+    },
+    {
+      "subject": "Math",
+      "chapter":1,
+      "class":6,
+      "questionImage":"",
+      "chapterName":"Knowing our Numbers",
+      "question": "Choose which collapsed form of 3 x 10000 + 7 x 1000 + 9 x 100 + 0 x 10 + 4 is correct?",
+      "options": [
+        {
+          "option": "37904"
+        },
+        {
+          "option": "30000 + 7000 + 900 + 4"
+        },
+        {
+          "option": "3794"
+        },
+        {
+          "option": "37000 + 90 + 4"
+        }
+      ],
+      "answer": "37904",
+      "explanation": "The given expression can be simplified as follows:\n\n3 x 10000 + 7 x 1000 + 9 x 100 + 0 x 10 + 4 = 30000 + 7000 + 900 + 0 + 4 = 37904.\n\nTherefore, the correct collapsed form is 37904.",
+      "images": [
+        {
+          "url": "image12.jpg"
+        }
+      ],
+      "startDate": "2023-08-20T00:00:00Z",
+      "endDate": "2023-08-25T00:00:00Z"
+    },
+    {
+      "subject": "Math",
+      "chapter":1,
+      "class":6,
+      "questionImage":"",
+      "chapterName":"Knowing our Numbers",
+      "question": "Which of the following is greatest?",
+      "options": [
+        {
+          "option": "7212"
+        },
+        {
+          "option": "7122"
+        },
+        {
+          "option": "7211"
+        },
+        {
+          "option": "7221"
+        }
+      ],
+      "answer": "7221",
+      "explanation": "To determine the greatest number among the given options, we need to compare their each face values values. Among these numbers, 7221 is the greatest number after comaring each of face values.",
+      "images": [
+        {
+          "url": "image13.jpg"
+        }
+      ],
+      "startDate": "2023-08-20T00:00:00Z",
+      "endDate": "2023-08-25T00:00:00Z"
+    },
+    {
+      "subject": "Math",
+      "chapter":1,
+      "class":6,
+      "questionImage":"",
+      "chapterName":"Knowing our Numbers",
+      "question": "What is the addition of C and XXXVII?",
+      "options": [
+        {
+          "option": "137"
+        },
+        {
+          "option": "145"
+        },
+        {
+          "option": "34"
+        },
+        {
+          "option": "318"
+        }
+      ],
+      "answer": "CXXXVII",
+      "explanation": "In Roman numerals, C represents 100 and XXXVII represents 37. Adding them together:\n\n100 + 37 = 137, which is represented in Roman numerals as CXXXVII.",
+      "images": [
+        {
+          "url": "image14.jpg"
+        }
+      ],
+      "startDate": "2023-08-20T00:00:00Z",
+      "endDate": "2023-08-25T00:00:00Z"
+    },
+    {
+      "subject": "Math",
+      "chapter":1,
+      "class":6,
+      "questionImage":"",
+      "chapterName":"Knowing our Numbers",
+      "question": "What is equivalent of 3 crore 2 lakh 5 thousands in International Number System?",
+      "options": [
+        {
+          "option": "3205000"
+        },
+        {
+          "option": "3020500"
+        },
+        {
+          "option": "3250000"
+        },
+        {
+          "option": "3052000"
+        }
+      ],
+      "answer": "3250000",
+      "explanation": "In the given number, 3 crore is equivalent to 30,000,000, 2 lakh is equivalent to 200,000, and 5 thousands is equivalent to 5,000. Adding these values together, we get 30,000,000 + 200,000 + 5,000 = 32,205,000. Therefore, the equivalent of 3 crore 2 lakh 5 thousands in International Number System is 32,205,000, which is closest to the option 3250000.",
+      "images": [
+        {
+          "url": "image15.jpg"
+        }
+      ],
+      "startDate": "2023-08-20T00:00:00Z",
+      "endDate": "2023-08-25T00:00:00Z"
+    }
+]

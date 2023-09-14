@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media print {
+    body *:not(#content):not(#content *){
+        visibility: hidden;
+    }
+    body, html {
+        margin: 0;
+        padding: 0;
+    }
+}
+
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+display: none;
+}
+.grad-1{
+    background: linear-gradient(98deg, #8e9af4 3.16%, #868fe6 53.56%, #6c77db 102.62%);
+
+}
